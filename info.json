@@ -1,13 +1,13 @@
 {
-  "name": "factorio-mod-template",
+  "name": "activity-switch",
   "version": "0.1.0",
-  "title": "Factorio Mod Template",
-  "author": "JohnDoe",
-  "source": "https://github.com/JohnDoe/factorio-mod-template",
-  "homepage": "https://mods.factorio.com/mod/factorio-mod-template",
+  "title": "Activity Switch",
+  "author": "RedRafe",
+  "source": "https://github.com/RedRafe/activity-switch",
+  "homepage": "https://mods.factorio.com/mod/activity-switch",
   "dependencies": [
     "base >= 2.0"
   ],
-  "description": "A ready-to-use template for Factorio mods",
+  "description": "Turn entities ON/OFF at your will",
   "factorio_version": "2.0"
 }
